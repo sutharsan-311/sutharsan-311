@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Sutharsan%20K&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=ROS2%20%C2%B7%20Autonomous%20Robotics%20%C2%B7%20Perception&descAlignY=60&descColor=8b949e&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a192f,70:1a1a2e,100:16213e&height=220&section=header&text=Sutharsan%20K&fontSize=55&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=ROS2%20%C2%B7%20Autonomous%20Robotics%20%C2%B7%20AI%20Systems&descAlignY=60&descColor=8b949e&descSize=20" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Junior+ROS2+Developer+%40+Spotless+AI;Building+autonomous+robots+in+hospitals;From+simulation+to+real+deployment)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Junior+ROS2+Developer+%40+Spotless+AI;Building+autonomous+robots+in+hospitals;Perception+%7C+Nav2+%7C+AI+Agents;From+simulation+to+real+deployment+🤖;Let+the+robots+do+the+work.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -12,6 +12,16 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sutharsan-311)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sutharsan-311&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🏆 Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sutharsan-311&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -27,17 +37,18 @@ class Sutharsan:
     company  = "Logical Minds IT Services"
     client   = "Spotless AI"
     location = "Coimbatore, India"
-    
+
     focus = [
         "Autonomous Navigation (Nav2)",
         "Perception Pipelines (LiDAR, RGB-D, YOLO)",
         "Hardware Integration (ros2_control)",
         "Real-world robot deployment",
     ]
-    
+
     currently_building = [
         "samowl — open-vocab 3D object detection",
         "nav2_config — live Nav2 parameter tuning",
+        "eon — personal AI assistant (WhatsApp)",
     ]
 ```
 
@@ -45,36 +56,27 @@ class Sutharsan:
 
 ---
 
-### Tech Stack
+### ⚡ Tech Stack
 
 <div align="center">
 
 **Robotics & Navigation**
 
-![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![Nav2](https://img.shields.io/badge/Nav2-0078D4?style=for-the-badge&logoColor=white)
-![Gazebo](https://img.shields.io/badge/Gazebo-F58025?style=for-the-badge&logoColor=white)
+[![Robotics Skills](https://skillicons.dev/icons?i=ros,arduino,raspberrypi,cmake&perrow=6)](https://skillicons.dev)
 
-**Perception**
+**AI & Perception**
 
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logoColor=black)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+[![AI Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,python&perrow=6)](https://skillicons.dev)
 
 **Languages & Tools**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+[![Dev Skills](https://skillicons.dev/icons?i=python,cpp,bash,git,github,linux,vscode,docker&perrow=8)](https://skillicons.dev)
 
 </div>
 
 ---
 
-### GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
 
@@ -89,7 +91,17 @@ class Sutharsan:
 
 ---
 
-### Open Source
+### 📈 Activity Graph
+
+<div align="center">
+
+[![Sutharsan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sutharsan-311&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1a3a5c)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+### 🚀 Open Source
 
 | Project | Description | Stars |
 |---|---|---|
@@ -99,7 +111,7 @@ class Sutharsan:
 
 ---
 
-### Contribution Activity
+### 🐍 Contribution Activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sutharsan-311/sutharsan-311/output/github-contribution-grid-snake-dark.svg" />
@@ -107,12 +119,20 @@ class Sutharsan:
   <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/sutharsan-311/sutharsan-311/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
+### 🌐 3D Contribution Calendar
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sutharsan-311/sutharsan-311/output/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sutharsan-311/sutharsan-311/output/profile-3d-contrib/profile-gitblock.svg" />
+  <img alt="3D Contribution Calendar" src="https://raw.githubusercontent.com/sutharsan-311/sutharsan-311/output/profile-3d-contrib/profile-night-rainbow.svg" />
+</picture>
+
 ---
 
 <!-- EON:CURRENTLY_BUILDING -->
-> **Currently building:** `samowl` — open-vocab 3D detection for ROS2 · `nav2_config` — live Nav2 tuning
+> **Currently building:** `samowl` — open-vocab 3D detection for ROS2 · `nav2_config` — live Nav2 tuning · `eon` — personal AI assistant
 <!-- EON:CURRENTLY_BUILDING_END -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer" width="100%"/>
 </div>
