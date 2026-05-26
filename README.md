@@ -12,6 +12,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sutharsan-311)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sutharsan-311&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
+![Open to Work](https://img.shields.io/badge/🟢%20Open%20to%20Work-Robotics%20Engineering%20Roles-22c55e?style=for-the-badge)
 
 </div>
 
