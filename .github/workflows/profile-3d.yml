@@ -1,0 +1,32 @@
+name: 3D Contribution Calendar
+
+on:
+  schedule:
+    - cron: "0 18 * * *"
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: |
+            {
+              "githubUserName": "sutharsan-311",
+              "type": "night-rainbow",
+              "backgroundColor": "#0d1117"
+            }
+      - name: Commit & Push
+        run: |
+          git config user.email "action@github.com"
+          git config user.name "GitHub Action"
+          git add -A .
+          git diff --staged --quiet || git commit -m "chore: update 3d contribution calendar"
+          git push
