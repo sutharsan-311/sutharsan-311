@@ -50,6 +50,7 @@ class Sutharsan:
         "samowl — open-vocab 3D object detection",
         "nav2_config — live Nav2 parameter tuning",
         "eon — personal AI assistant (WhatsApp)",
+        "tiny-dllm — masked diffusion language model from scratch",
     ]
 ```
 
@@ -109,6 +110,7 @@ class Sutharsan:
 | [**samowl**](https://github.com/sutharsan-311/samowl) | Open-vocab 3D object detection · OWLv2 + SAM · ROS2 | ![Stars](https://img.shields.io/github/stars/sutharsan-311/samowl?color=58a6ff&style=flat) |
 | [**nav2_config**](https://github.com/sutharsan-311/nav2_config) | Live Nav2 parameter tuning GUI — no restart needed | ![Stars](https://img.shields.io/github/stars/sutharsan-311/nav2_config?color=58a6ff&style=flat) |
 | [**robotics-playbook**](https://github.com/sutharsan-311/robotics-playbook) | ROS2 · navigation · AI-robotics — notes from real deployments | ![Stars](https://img.shields.io/github/stars/sutharsan-311/robotics-playbook?color=58a6ff&style=flat) |
+| [**tiny-dllm**](https://github.com/sutharsan-311/tiny-dllm) | Masked diffusion LM from scratch · PyTorch · bidirectional attention · [![HF](https://img.shields.io/badge/🤗-model-ffd21e?style=flat)](https://huggingface.co/sutharsan-311/tiny-dllm) | ![Stars](https://img.shields.io/github/stars/sutharsan-311/tiny-dllm?color=58a6ff&style=flat) |
 
 ---
 
@@ -131,7 +133,7 @@ class Sutharsan:
 ---
 
 <!-- EON:CURRENTLY_BUILDING -->
-> **Currently building:** `samowl` — open-vocab 3D detection for ROS2 · `nav2_config` — live Nav2 tuning · `eon` — personal AI assistant
+> **Currently building:** `samowl` — open-vocab 3D detection for ROS2 · `nav2_config` — live Nav2 tuning · `eon` — personal AI assistant · `tiny-dllm` — masked diffusion LM from scratch
 <!-- EON:CURRENTLY_BUILDING_END -->
 
 <div align="center">
