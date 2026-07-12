@@ -1,10 +1,5 @@
 <div align="center">
 
-<!-- ASCII portrait generated from GitHub profile picture -->
-<img src="./avi-ascii.svg" width="350" alt="Sutharsan — ASCII portrait" />
-
-<br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a192f,70:1a1a2e,100:16213e&height=220&section=header&text=Sutharsan%20K&fontSize=55&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=ROS2%20%C2%B7%20Autonomous%20Robotics%20%C2%B7%20AI%20Systems&descAlignY=60&descColor=8b949e&descSize=20" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Junior+ROS2+Developer+%40+Spotless+AI;Building+autonomous+robots+in+hospitals;Perception+%7C+Nav2+%7C+AI+Agents;From+simulation+to+real+deployment+🤖;Let+the+robots+do+the+work.)](https://git.io/typing-svg)
