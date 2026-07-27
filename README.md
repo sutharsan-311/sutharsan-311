@@ -111,6 +111,7 @@ class Sutharsan:
 | [**nav2_config**](https://github.com/sutharsan-311/nav2_config) | Live Nav2 parameter tuning GUI — no restart needed | ![Stars](https://img.shields.io/github/stars/sutharsan-311/nav2_config?color=58a6ff&style=flat) |
 | [**robotics-playbook**](https://github.com/sutharsan-311/robotics-playbook) | ROS2 · navigation · AI-robotics — notes from real deployments | ![Stars](https://img.shields.io/github/stars/sutharsan-311/robotics-playbook?color=58a6ff&style=flat) |
 | [**tiny-dllm**](https://github.com/sutharsan-311/tiny-dllm) | Masked diffusion LM from scratch · PyTorch · bidirectional attention · [![HF](https://img.shields.io/badge/🤗-model-ffd21e?style=flat)](https://huggingface.co/sutharsan-311/tiny-dllm) | ![Stars](https://img.shields.io/github/stars/sutharsan-311/tiny-dllm?color=58a6ff&style=flat) |
+| [**claude-sudo**](https://github.com/sutharsan-311/claude-sudo) | Claude Code plugin — fixes `sudo` hangs via GNOME Keyring · password never in transcript · Linux | ![Stars](https://img.shields.io/github/stars/sutharsan-311/claude-sudo?color=58a6ff&style=flat) |
 
 ---
 
