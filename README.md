@@ -1,11 +1,11 @@
-<a href="https://sutharsan.is-a.dev/?src=github"><img src="assets/hero.svg" width="100%" alt="Sutharsan K., wired a little differently. Robotics engineer at Spotless AI."/></a>
+<a href="https://sutharsan.is-a.dev/?src=github"><img src="assets/hero.svg" width="100%" alt="Sutharsan K., Robotics engineer at Spotless AI."/></a>
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/sutharsan.is--a.dev-08070d?style=flat-square&logo=googlechrome&logoColor=c9bcff)](https://sutharsan.is-a.dev/?src=github)
-[![LinkedIn](https://img.shields.io/badge/linkedin-08070d?style=flat-square&logo=linkedin&logoColor=c9bcff)](https://linkedin.com/in/sutharsan311?src=github)
-[![Email](https://img.shields.io/badge/email-08070d?style=flat-square&logo=gmail&logoColor=c9bcff)](mailto:sutharsanmail311@gmail.com)
-![Views](https://komarev.com/ghpvc/?username=sutharsan-311&color=8b7cff&style=flat-square&label=views)
+[![Portfolio](https://img.shields.io/badge/sutharsan.is--a.dev-03131a?style=flat-square&logo=googlechrome&logoColor=5ff2d6)](https://sutharsan.is-a.dev/?src=github)
+[![LinkedIn](https://img.shields.io/badge/linkedin-03131a?style=flat-square&logo=linkedin&logoColor=5ff2d6)](https://linkedin.com/in/sutharsan311?src=github)
+[![Email](https://img.shields.io/badge/email-03131a?style=flat-square&logo=gmail&logoColor=5ff2d6)](mailto:sutharsanmail311@gmail.com)
+![Views](https://komarev.com/ghpvc/?username=sutharsan-311&color=3fe0c5&style=flat-square&label=views)
 
 </div>
 
