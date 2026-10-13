@@ -13,14 +13,14 @@
 > whoami
 ```
 
-**Sutharsan K.** Robotics engineer at **Spotless AI**. Spends the day teaching robots to find their way through hospitals with LiDAR and a lot of patience.
+**Sutharsan K.** Robotics engineer at **Spotless AI**.
 
-Got tired of restarting Nav2 just to change one number, so built [a tool](https://github.com/sutharsan-311/nav2_config) that changes it while the robot is still driving. ![stars](https://img.shields.io/github/stars/sutharsan-311/nav2_config?style=flat-square&label=strangers%20agreed&labelColor=08070d&color=2a2440)
+Works on the part of robotics that only shows up outside simulation.
 
-Thought left-to-right was a strange way for a language model to write, so [trained one from scratch](https://github.com/sutharsan-311/tiny-dllm) that starts from a blank page and un-masks the words instead.
+Asks *"why is it doing that?"* more often than is socially normal. Usually finds out.
 
-Spent weeks trying to make one vision encoder do the work of two on a Jetson. [It failed.](https://github.com/sutharsan-311/unified-perception) Published the failure anyway, then sent it to NVIDIA.
+Takes things apart to see how they think. Robots, models, tools. Occasionally the process of building them.
 
-Also made [Spotify Wrapped for git commits](https://github.com/sutharsan-311/git-recap), and taught Claude Code to [run sudo without ever seeing the password](https://github.com/sutharsan-311/claude-sudo).
+Treats a failed experiment as a finished one.
 
-Three of the nodes in that map up there are still unlabelled. Some of them are being worked on right now.
+The three unlabelled nodes in the map above are not a rendering bug.
