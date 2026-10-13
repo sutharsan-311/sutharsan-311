@@ -32,6 +32,7 @@
 <text x="64" y="290" class="t m" font-size="15">[ ok ] nav2 stack ............ <tspan class="a">active</tspan></text>
 <text x="64" y="316" class="t m" font-size="15">[ ok ] perception ........... <tspan class="a">owlv2 + sam</tspan></text>
 <text x="64" y="342" class="t m" font-size="15">[ ok ] target ............... <tspan class="a">hospital floor</tspan></text>
-<text x="64" y="380" class="t" font-size="15">$ ros2 launch sutharsan bringup.launch.py<tspan class="a blink"> █</tspan></text>
+<text x="64" y="368" class="t m" font-size="15">[<tspan class="a">warn</tspan>] visitor detected ..... <tspan class="a blink">not following yet</tspan></text>
+<text x="64" y="404" class="t" font-size="15">$ ros2 launch sutharsan bringup.launch.py<tspan class="a"> █</tspan></text>
 <text x="1176" y="420" class="t m" font-size="11" text-anchor="end">scan_rate 0.25Hz · pts 366</text>
 </svg>
