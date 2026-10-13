@@ -18,16 +18,6 @@
 
 ---
 
-<div align="center">
-
-### 🏆 Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sutharsan-311&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnpodGNxOWdyMndseW41ZTR1Z3FvdGd2ZHNmd3d5OGh1dHdhb2llciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="280" />
 
 ### About me
@@ -88,16 +78,6 @@ class Sutharsan:
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=sutharsan-311&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="150"/>
-
-</div>
-
----
-
-### 📈 Activity Graph
-
-<div align="center">
-
-[![Sutharsan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sutharsan-311&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1a3a5c)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
