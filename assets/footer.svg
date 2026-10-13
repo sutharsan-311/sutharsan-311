@@ -16,7 +16,7 @@
 </g>
 <line x1="1062" y1="40" x2="1062" y2="112" stroke="#f3e9dc" stroke-width="2"/>
 <path d="M1062 40 L1100 50 L1062 60 Z" fill="#ffb347" class="flag"/>
-<text x="1080" y="128" class="t" font-size="12" fill="#8a7b6a" text-anchor="middle">goal: you, following</text>
-<text x="100" y="50" class="t wait" font-size="15" fill="#8a7b6a">[nav2] planning route to your follow button...</text>
-<text x="100" y="50" class="t done" font-size="15" fill="#ffb347">[nav2] goal reached ✓  thanks for scrolling this far</text>
+<text x="1080" y="128" class="t" font-size="12" fill="#8a7b6a" text-anchor="middle">map edge</text>
+<text x="100" y="50" class="t wait" font-size="15" fill="#8a7b6a">[nav2] exploring · 1 unmapped region remaining</text>
+<text x="100" y="50" class="t done" font-size="15" fill="#ffb347">[nav2] frontier reached · map continues at sutharsan.is-a.dev</text>
 </svg>

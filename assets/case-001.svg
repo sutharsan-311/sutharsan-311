@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="230" viewBox="0 0 560 230">
+<style>
+ .t{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
+ .bar{animation:s 2.6s ease-in-out infinite} @keyframes s{0%,100%{opacity:.85}50%{opacity:.45}}
+ .stamp{animation:k 3s ease-in-out infinite;transform-origin:440px 70px} @keyframes k{0%,100%{transform:rotate(-8deg)}50%{transform:rotate(-6deg) scale(1.03)}}
+</style>
+<rect x="1" y="1" width="558" height="228" rx="12" fill="#0b0906" stroke="#3a2a17"/>
+<text x="24" y="38" class="t" font-size="12" fill="#8a7b6a" letter-spacing="2">CASE FILE 001</text>
+<text x="24" y="70" class="t" font-size="20" font-weight="700" fill="#f3e9dc">UV Disinfection Robot</text>
+<text x="24" y="96" class="t" font-size="13" fill="#ffb347">Spotless AI · hospital deployment</text>
+<g class="bar" fill="#3a2a17">
+ <rect x="24" y="118" width="300" height="12" rx="2"/><rect x="334" y="118" width="120" height="12" rx="2"/>
+ <rect x="24" y="140" width="180" height="12" rx="2"/><rect x="214" y="140" width="260" height="12" rx="2"/>
+ <rect x="24" y="162" width="390" height="12" rx="2"/>
+</g>
+<text x="24" y="206" class="t" font-size="12" fill="#8a7b6a">status: <tspan fill="#ffb347">DEPLOYED</tspan>   ·   clearance: sutharsan.is-a.dev</text>
+<g class="stamp"><rect x="380" y="50" width="150" height="40" rx="4" fill="none" stroke="#ffb347" stroke-width="2.5" opacity=".75"/>
+<text x="455" y="76" class="t" font-size="14" font-weight="700" fill="#ffb347" text-anchor="middle" opacity=".85" letter-spacing="2">REDACTED</text></g>
+</svg>
