@@ -2,10 +2,10 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/sutharsan.is--a.dev-140a16?style=flat-square&logo=googlechrome&logoColor=ffb38a)](https://sutharsan.is-a.dev/?src=github)
-[![LinkedIn](https://img.shields.io/badge/linkedin-140a16?style=flat-square&logo=linkedin&logoColor=ffb38a)](https://linkedin.com/in/sutharsan311?src=github)
-[![Email](https://img.shields.io/badge/email-140a16?style=flat-square&logo=gmail&logoColor=ffb38a)](mailto:sutharsanmail311@gmail.com)
-![Views](https://komarev.com/ghpvc/?username=sutharsan-311&color=ff7a59&style=flat-square&label=views)
+[![Portfolio](https://img.shields.io/badge/sutharsan.is--a.dev-140a16?style=flat-square&logo=googlechrome&logoColor=f1d885)](https://sutharsan.is-a.dev/?src=github)
+[![LinkedIn](https://img.shields.io/badge/linkedin-140a16?style=flat-square&logo=linkedin&logoColor=f1d885)](https://linkedin.com/in/sutharsan311?src=github)
+[![Email](https://img.shields.io/badge/email-140a16?style=flat-square&logo=gmail&logoColor=f1d885)](mailto:sutharsanmail311@gmail.com)
+![Views](https://komarev.com/ghpvc/?username=sutharsan-311&color=c19541&style=flat-square&label=views)
 
 </div>
 
