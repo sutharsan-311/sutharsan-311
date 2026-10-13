@@ -22,29 +22,42 @@
 
 ### About me
 
+I build robots that drive themselves around hospitals at **Spotless AI**, out of Coimbatore, India.
+
+Most of my day is Nav2, LiDAR, depth cameras and a Jetson Orin NX. Simulation is the easy part. The real work starts when the robot leaves Gazebo and meets an actual hospital corridor.
+
+When I hit the same annoyance three times, I write a tool for it. That is where most of the repos below come from.
+
 ```python
 class Sutharsan:
     role     = "Junior ROS2 Developer"
-    company  = "Logical Minds IT Services"
-    client   = "Spotless AI"
+    company  = "Spotless AI"
     location = "Coimbatore, India"
 
-    focus = [
-        "Autonomous Navigation (Nav2)",
-        "Perception Pipelines (LiDAR, RGB-D, YOLO)",
-        "Hardware Integration (ros2_control)",
-        "Real-world robot deployment",
+    day_job = [
+        "Autonomous navigation (Nav2)",
+        "Perception: LiDAR, RGB-D, open-vocab detection",
+        "Hardware integration (ros2_control)",
+        "Shipping robots out of simulation and into hospitals",
     ]
 
-    currently_building = [
-        "samowl — open-vocab 3D object detection",
-        "nav2_config — live Nav2 parameter tuning",
-        "eon — personal AI assistant (WhatsApp)",
-        "tiny-dllm — masked diffusion language model from scratch",
+    after_hours = [
+        "tiny-dllm: a diffusion language model, from scratch",
+        "eon: a personal AI assistant on WhatsApp",
+        "Flutter apps for my family's garment business",
     ]
 ```
 
 <br clear="right"/>
+
+---
+
+### 🤖 What I work on
+
+- **Navigation.** Nav2 tuning, costmaps, controllers and lifecycle management on real hardware. I got tired of the edit YAML, kill, relaunch, wait loop, so I built [nav2_config](https://github.com/sutharsan-311/nav2_config).
+- **Perception.** Open-vocabulary detection and segmentation (OWLv2, NanoOWL, SAM, NanoSAM), TensorRT on Jetson, projecting 2D detections into 3D and keeping track of them in a scene graph.
+- **Edge AI.** Squeezing models onto an Orin NX. Sometimes that works. When it doesn't, I write down why ([unified-perception](https://github.com/sutharsan-311/unified-perception)).
+- **Tooling.** Small, sharp tools for things that annoy me: Claude Code plugins, git visualisations, ROS2 utilities.
 
 ---
 
@@ -83,16 +96,44 @@ class Sutharsan:
 
 ---
 
-### 🚀 Open Source
+### 🚀 Featured projects
 
-| Project | Description | Stars |
-|---|---|---|
-| [**samowl**](https://github.com/sutharsan-311/samowl) | Open-vocab 3D object detection · OWLv2 + SAM · ROS2 | ![Stars](https://img.shields.io/github/stars/sutharsan-311/samowl?color=58a6ff&style=flat) |
-| [**nav2_config**](https://github.com/sutharsan-311/nav2_config) | Live Nav2 parameter tuning GUI — no restart needed | ![Stars](https://img.shields.io/github/stars/sutharsan-311/nav2_config?color=58a6ff&style=flat) |
-| [**robotics-playbook**](https://github.com/sutharsan-311/robotics-playbook) | ROS2 · navigation · AI-robotics — notes from real deployments | ![Stars](https://img.shields.io/github/stars/sutharsan-311/robotics-playbook?color=58a6ff&style=flat) |
-| [**tiny-dllm**](https://github.com/sutharsan-311/tiny-dllm) | Masked diffusion LM from scratch · PyTorch · bidirectional attention · [![HF](https://img.shields.io/badge/🤗-model-ffd21e?style=flat)](https://huggingface.co/sutharsan-311/tiny-dllm) | ![Stars](https://img.shields.io/github/stars/sutharsan-311/tiny-dllm?color=58a6ff&style=flat) |
-| [**claude-sudo**](https://github.com/sutharsan-311/claude-sudo) | Claude Code plugin — fixes `sudo` hangs via GNOME Keyring · password never in transcript · Linux | ![Stars](https://img.shields.io/github/stars/sutharsan-311/claude-sudo?color=58a6ff&style=flat) |
+#### [nav2_config](https://github.com/sutharsan-311/nav2_config) ![Stars](https://img.shields.io/github/stars/sutharsan-311/nav2_config?color=58a6ff&style=flat)
 
+Tune Nav2 on a running robot, no relaunch. It finds live Nav2 nodes, shows every parameter with a description and tuning advice (706 of them across 21 nodes), and pushes changes straight to the stack. It also has lifecycle controls, live topic and TF dropdowns, and YAML save/load. [Watch the demo](https://www.youtube.com/watch?v=e--45aJRZY4).
+
+#### [samowl](https://github.com/sutharsan-311/samowl) ![Stars](https://img.shields.io/github/stars/sutharsan-311/samowl?color=58a6ff&style=flat)
+
+Ask a robot to find "the red chair" and it finds it in 3D. OWLv2 does open-vocabulary detection, SAM (TensorRT) does the masks, depth turns them into 3D positions, and a persistent scene graph remembers objects across frames so you can query by label or distance. C++ runs the ROS2 side, Python runs the ML.
+
+#### [unified-perception](https://github.com/sutharsan-311/unified-perception)
+
+Could one vision encoder feed both NanoOWL and NanoSAM on a Jetson and halve the per-frame cost? I trained a ~525K-param adapter to find out. **It didn't work**: training converged and the masks were useless. The repo is an honest write-up of the idea, the test that caught it, and the lessons. I also raised it upstream in [NVIDIA-AI-IOT/nanosam#42](https://github.com/NVIDIA-AI-IOT/nanosam/issues/42).
+
+#### [tiny-dllm](https://github.com/sutharsan-311/tiny-dllm) [![HF](https://img.shields.io/badge/🤗-model-ffd21e?style=flat)](https://huggingface.co/sutharsan-311/tiny-dllm)
+
+A masked diffusion language model written from scratch in PyTorch. It starts with every token masked and fills them in by confidence, using bidirectional attention. Loss went from 4.2 to 1.4 over 50k steps, and it now writes passable fake Shakespeare.
+
+#### [git-recap](https://github.com/sutharsan-311/git-recap) [![npm](https://img.shields.io/npm/v/git-recap?color=ff6ec4&label=npx%20git-recap&style=flat)](https://www.npmjs.com/package/git-recap)
+
+Spotify Wrapped for your git history. Run `npx git-recap` in any repo and you get an animated story (heatmap, 3AM commits, your favourite commit words, a personality verdict) plus a shareable SVG card. It runs locally with zero dependencies: no API key, nothing uploaded.
+
+#### [claude-sudo](https://github.com/sutharsan-311/claude-sudo)
+
+`sudo` hangs in Claude Code because there is no TTY. This plugin adds a hook that asks you to approve each root command, then feeds sudo the password from GNOME Keyring through `SUDO_ASKPASS`. Your password never touches the transcript. Linux only.
+
+#### [robotics-playbook](https://github.com/sutharsan-311/robotics-playbook)
+
+Notes from real deployments: ROS2, navigation and AI-robotics, written down so I stop relearning them.
+
+---
+
+### 🔧 Upstream contributions
+
+- **ros/rosdistro**: added the `python3-pyqt6` rosdep key (merged) and submitted nav2_config for Humble and Jazzy
+- **ros-navigation/navigation2**: proposed snake_case plugin names in `nav2_params.yaml`
+- **ros2/rcutils**: proposed a `SUCCESS` log severity between INFO and WARN
+- **NVIDIA-AI-IOT/nanosam**: reported the shared-encoder adapter findings ([#42](https://github.com/NVIDIA-AI-IOT/nanosam/issues/42))
 ---
 
 ### 🐍 Contribution Activity
