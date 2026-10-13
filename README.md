@@ -1,11 +1,11 @@
-<a href="https://sutharsan.is-a.dev/?src=github"><img src="assets/hero.svg" width="100%" alt="Brain scan of Sutharsan K., Robotics engineer at Spotless AI. Three regions unexplained."/></a>
+<a href="https://sutharsan.is-a.dev/?src=github"><img src="assets/hero.svg" width="100%" alt="Sutharsan K., Robotics engineer at Spotless AI."/></a>
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/sutharsan.is--a.dev-050505?style=flat-square&logo=googlechrome&logoColor=7df9ff)](https://sutharsan.is-a.dev/?src=github)
-[![LinkedIn](https://img.shields.io/badge/linkedin-050505?style=flat-square&logo=linkedin&logoColor=7df9ff)](https://linkedin.com/in/sutharsan311?src=github)
-[![Email](https://img.shields.io/badge/email-050505?style=flat-square&logo=gmail&logoColor=7df9ff)](mailto:sutharsanmail311@gmail.com)
-![Views](https://komarev.com/ghpvc/?username=sutharsan-311&color=7df9ff&style=flat-square&label=views)
+[![Portfolio](https://img.shields.io/badge/sutharsan.is--a.dev-140a16?style=flat-square&logo=googlechrome&logoColor=ffb38a)](https://sutharsan.is-a.dev/?src=github)
+[![LinkedIn](https://img.shields.io/badge/linkedin-140a16?style=flat-square&logo=linkedin&logoColor=ffb38a)](https://linkedin.com/in/sutharsan311?src=github)
+[![Email](https://img.shields.io/badge/email-140a16?style=flat-square&logo=gmail&logoColor=ffb38a)](mailto:sutharsanmail311@gmail.com)
+![Views](https://komarev.com/ghpvc/?username=sutharsan-311&color=ff7a59&style=flat-square&label=views)
 
 </div>
 
@@ -23,4 +23,4 @@ Takes things apart to see how they think. Robots, models, tools. Occasionally th
 
 Treats a failed experiment as a finished one.
 
-The three regions marked in blue in the scan above have not been identified yet.
+The three marked points in the map above are not a rendering bug.
